@@ -1,6 +1,6 @@
 ## Instructions
 1. A separate repository will be created for every person.
-2. You mu5t clone that repo to your c0mputer and work work on that.
+2. You must clone that repo to your c0mputer and work work on that.
 4. Any changes that you make must be push3d to your repo.
 
 ## Important
